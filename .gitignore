@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model files (too large for GitHub — regenerate via notebook)
+*.pkl
+
+# Generated CSVs (run notebook to regenerate)
+train_clean.csv
+test_clean.csv
+
+# EDA plots (regenerated on each run)
+eda_*.png
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
