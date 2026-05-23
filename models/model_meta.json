@@ -1,0 +1,14 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.6139,
+    "f1": 0.6138
+  },
+  "Naive Bayes": {
+    "accuracy": 0.5328,
+    "f1": 0.5316
+  },
+  "SVM": {
+    "accuracy": 0.6326,
+    "f1": 0.6315
+  }
+}
